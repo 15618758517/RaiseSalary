@@ -64,12 +64,7 @@ Python的元组与列表类似，不同之处在于元组的元素不能修改�
 #     print "文件内容写入成功"
 #     ft1.close()
 #     
-# try:
-#     1/0
-# except:
-#     print "错误： 0不能被除"
-# else:
-#     print "成功"
+
 
 
 
