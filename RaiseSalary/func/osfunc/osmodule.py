@@ -24,3 +24,6 @@ print path1
 
 path2 = os.environ.get('ROBOT_SYSLOG_FILE')
 print path2
+
+level = os.environ.get('ROBOT_SYSLOG_LEVEL', 'level')
+print level
